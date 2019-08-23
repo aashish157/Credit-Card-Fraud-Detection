@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 A Gaussian Naive Bayes ML classifier to classify credit card transactions as genuine or fraudulent.Credit card fraud detection dataset from kaggle (https://www.kaggle.com/mlg-ulb/creditcardfraud) was used in developing this project. Gaussian Naive Bayes is a classification machine learning algorithm which is an extension of Naive Bayes algorithm. Gaussian Naive Bayes is applied to data with real valued features.
 
 ## Getting Started
@@ -35,19 +35,11 @@ git clone https://github.com/aashish157/Credit-Card-Fraud-Detection.git
 ### Screenshots
 
 </div>
-	<img src="screenshots/best_features.png" alt="best_features" width="700px"/>
-	<div class="caption">
-          <p>Distribution plot of best features</p>
-        </div>
+	<img src="screenshots/best_features.png" alt="best_features" title="Distribution plot of best features" width="700px"/>
+	
 <div class="col-md-12 row">
-	<img src="screenshots/training_data_cm.png" alt="training data performance" width="400px"/>
-	<div class="caption">
-          <p>#### Training Data Performance</p>
-        </div>
-	<img src="screenshots/test_data_cm.png" alt="test data performance" width="400px"/>
-	<div class="caption">
-          <p>#### Test Data Performance</p>
-        </div>
+	<img src="screenshots/training_data_cm.png" alt="training data performance" title="Training Data Performance" width="400px"/>
+	<img src="screenshots/test_data_cm.png" alt="test data performance" title="Test Data Performance" width="400px"/>
 
 ## Built With
 
