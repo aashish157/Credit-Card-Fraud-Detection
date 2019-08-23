@@ -34,12 +34,10 @@ git clone https://github.com/aashish157/Credit-Card-Fraud-Detection.git
 
 ### Screenshots
 
-<div class="col-md-12 row">
-	<img src="screenshots/s4.png" alt="s4" width="400px"/>
-	<img src="screenshots/s6.png" alt="s6" width="400px"/>
 </div>
-	<img src="screenshots/s5.png" alt="s5" width="800px"/>
-
+	<img src="screenshots/best_features.png" alt="best_features" width="800px"/>
+<div class="col-md-12 row">
+	<img src="screenshots/confusion matrix.png" alt="confusion matrix" width="400px"/>
 
 ## Built With
 
