@@ -1,7 +1,5 @@
 # Credit-Card-Fraud-Detection
-ML model to classify credit card transactions as genuine or fraudulent
-
-A Linear Regression ML model to predict the monetary value of a new house. Boston house price dataset was used in developing this project. Linear regression is a supervised machine learning algorithm which outputs a linear relation between a dependent and an independent variable. In this project the target attribute 'price' is the dependent variable and feature 'LSTAT' is the independent variable
+A Gaussian Naive Bayes ML classifier to classify credit card transactions as genuine or fraudulent.Credit card fraud detection dataset from kaggle (https://www.kaggle.com/mlg-ulb/creditcardfraud) was used in developing this project. Gaussian Naive Bayes is a classification machine learning algorithm which is an extension of Naive Bayes algorithm. Gaussian Naive Bayes is applied to data with real valued features.
 
 ## Getting Started
 
@@ -24,14 +22,15 @@ sudo apt install jupyter
 
 1. Clone the repository
 ```
-git clone https://github.com/aashish157/New-House-Price-Prediction.git
+git clone https://github.com/aashish157/Credit-Card-Fraud-Detection.git
 ```
 
 
 ### Usage
 
-1. Open the .ipynb notebook file from cloned repo on Jupyter Notebook
-2. Run all the cells to test the project
+1. Open the cloned Credit-Card-Fraud-Detection directory and save the credit card fraud dataset csv file with name creditcard.csv in a data folder
+2. Open the .ipynb notebook file from cloned repo on Jupyter Notebook
+3. Run all the cells to test the project
 
 ### Screenshots
 
