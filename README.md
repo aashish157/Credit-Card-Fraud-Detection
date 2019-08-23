@@ -35,7 +35,7 @@ git clone https://github.com/aashish157/Credit-Card-Fraud-Detection.git
 ### Screenshots
 
 </div>
-	<img src="screenshots/best_features.png" alt="best_features" title="Distribution plot of best features" width="700px"/>
+	<img align="center" src="screenshots/best_features.png" alt="best_features" title="Distribution plot of best features" width="700px"/>
 	
 <div class="col-md-12 row">
 	<img src="screenshots/training_data_cm.png" alt="training data performance" title="Training Data Performance" width="400px"/>
