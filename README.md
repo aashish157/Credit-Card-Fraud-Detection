@@ -35,13 +35,19 @@ git clone https://github.com/aashish157/Credit-Card-Fraud-Detection.git
 ### Screenshots
 
 </div>
-	<img src="screenshots/best_features.png" alt="best_features" width="800px"/>
+	<img src="screenshots/best_features.png" alt="best_features" width="700px"/>
 	<div class="caption">
-          <p>Lorem ipsum...</p>
+          <p>Distribution plot of best features</p>
         </div>
 <div class="col-md-12 row">
-	<img src="screenshots/train_data_cm.png" alt="training data performance" width="400px"/>
+	<img src="screenshots/training_data_cm.png" alt="training data performance" width="400px"/>
+	<div class="caption">
+          <p>#### Training Data Performance</p>
+        </div>
 	<img src="screenshots/test_data_cm.png" alt="test data performance" width="400px"/>
+	<div class="caption">
+          <p>#### Test Data Performance</p>
+        </div>
 
 ## Built With
 
